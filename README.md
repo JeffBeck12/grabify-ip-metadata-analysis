@@ -1,12 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32916193/README.md)
 
-# Keep unredacted evidence and private consent records out of Git.
-private/
-raw-evidence/
-.env
-.env.*
-Thumbs.db
-.DS_Store
 
 <div align="center">
 
